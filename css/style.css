@@ -1,0 +1,70 @@
+/* =============== Typography =============== */
+
+h1 {
+	
+}
+
+h2 {
+	
+}
+
+h3 {
+	
+}
+
+h4 {
+	
+}
+
+h5 {
+	
+}
+
+h6 {
+	
+}
+
+p {
+	
+}
+
+body {
+	background-color: blue; 
+}
+/* =============== Navigation Styles =============== */
+
+nav {
+	
+}
+
+nav ul {
+	
+}
+
+nav ul li {
+	
+}
+
+nav ul li a {
+	
+}
+
+
+.navbar-inverse {
+    background-color: maroon;
+    border-color: black;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+    background-color: black; 
+}
+ul.nav li {
+	font-family: "Times New Roman", serif;
+}
+a.navbar-brand {
+	color: white!important;
+}
+
+
+/* =============== Home Page Styles =============== */
+
